@@ -1,1 +1,1 @@
-In out group is Owen, Andrew, ad Danny.# BigIdeasVersionControlLab
+In our group is Owen, Andrew, ad Danny.# BigIdeasVersionControlLab
